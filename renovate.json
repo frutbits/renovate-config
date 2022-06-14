@@ -45,6 +45,12 @@
 					"@sapphire"
 				],
 				"groupName": "Sapphire Dependencies"
+			},
+			{
+				"matchPackagePatterns": [
+					"@frutbits"
+				],
+				"groupName": "FrutBits Dependencies"
 			}
 		]
 	}

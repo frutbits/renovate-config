@@ -12,6 +12,9 @@
 	"schedule": [
 		"before 6am"
 	],
+	"ignorePaths": [
+		".devcontainer/**"
+	],
 	"timezone": "Asia/Jakarta",
 	"docker": {
 		"enabled": true,

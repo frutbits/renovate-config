@@ -54,6 +54,15 @@
 					"@frutbits"
 				],
 				"groupName": "FrutBits Dependencies"
+			},
+			{
+				"matchPackagePatterns": [
+					"@typescript-eslint",
+					"eslint",
+					"typescript",
+					"@hazmi35/eslint-config"
+				],
+				"groupName": "ESLint Dependencies"
 			}
 		]
 	}

@@ -65,5 +65,7 @@
 				"groupName": "ESLint Dependencies"
 			}
 		]
-	}
+	},
+	"separateMajorPatch": true,
+	"separateMajorMinor": true
 }

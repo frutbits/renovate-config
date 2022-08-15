@@ -63,6 +63,10 @@
 					"@hazmi35/eslint-config"
 				],
 				"groupName": "ESLint Dependencies"
+			},
+			{
+				"matchManagers": ["github-actions"],
+				"groupName": "GitHub Actions"
 			}
 		]
 	},
